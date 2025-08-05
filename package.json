@@ -1,0 +1,28 @@
+{
+  "name": "Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5",
+  "version": "1.0.0",
+  "description": "Automated swap bot for taiko, useful for trailblazers airdrop farming.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "taiko",
+    "airdrop",
+    "bot",
+    "swap",
+    "web3",
+    "trailblazers",
+    "crypto",
+    "blockchain",
+    "automation"
+  ],
+  "author": "Kurisaitou",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.3.1",
+    "web3": "^1.10.0"
+  }
+}
